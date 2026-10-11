@@ -1,0 +1,9 @@
+# -- Language Configuration --
+# Language-specific settings for each language.
+
+en:
+  title: Halfworks Games
+  subtitle: "An independent R&D lab focused on long-term, systems-driven development."
+  label: English
+  weight: 1
+

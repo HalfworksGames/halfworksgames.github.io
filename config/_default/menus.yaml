@@ -1,0 +1,10 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+
+main:
+  - name: "Home"
+    pageRef: "/"
+    weight: 10
+  - name: "Blog"
+    pageRef: "blog"
+    weight: 20
