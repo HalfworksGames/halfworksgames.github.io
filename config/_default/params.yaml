@@ -28,8 +28,12 @@ homepage:
   layoutBackgroundBlur: false
   disableHeroImageFilter: false
 
+list:
+  showSummary: true
+
 article:
   showBreadcrumbs: true
+  showTaxonomies: true
 
 sitemap:
   excludedKinds: ["taxonomy", "term"]
